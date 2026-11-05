@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/december-2017-security-releases
+  posted: 2017-12-08T16:30:00Z
+title: Data Confidentiality/Integrity Vulnerability, December 2017
