@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: full-disclosure
+  url: https://seclists.org/fulldisclosure/2026/Nov/8
+  posted: 2026-11-05T04:29:54Z
+title: unixODBC <=2.3.14 Multiple Heap Buffer Overflows, Underflows, and Over-Reads
