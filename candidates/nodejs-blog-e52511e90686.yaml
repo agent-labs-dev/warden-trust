@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/aug-2021-security-releases
+  posted: 2021-08-11T16:00:00Z
+title: August 2021 Security Releases
