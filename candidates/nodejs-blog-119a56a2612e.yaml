@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/openssl-fixes-in-regular-releases-jan2026
+  posted: 2026-01-28T17:00:00Z
+title: OpenSSL Security Advisory Assessment, January 2026
