@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/openssl-fixes-in-regular-releases-dec2022
+  posted: 2022-12-16T17:00:15Z
+title: OpenSSL 3.0.7 update assessment
