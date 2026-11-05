@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: php-announce
+  url: https://www.php.net/index.php#2026-10-21-4
+  posted: 2026-10-21T00:24:52Z
+title: PHP 8.5.12 Released!
