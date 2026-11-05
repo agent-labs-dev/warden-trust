@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: postgresql-news
+  url: https://www.postgresql.org/about/news/hypopg-145-is-out-3428/
+  posted: 2026-11-02T00:00:00Z
+title: HypoPG 1.4.5 is out!
