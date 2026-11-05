@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: php-announce
+  url: https://www.php.net/index.php#2025-10-23-1
+  posted: 2025-10-23T16:59:13Z
+title: PHP 8.5.0 RC 3 available for testing
