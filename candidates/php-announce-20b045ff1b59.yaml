@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: php-announce
+  url: https://www.php.net/index.php#2024-08-01-2
+  posted: 2024-08-01T16:12:06Z
+title: PHP 8.2.22 Released!
