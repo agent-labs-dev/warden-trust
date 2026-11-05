@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: full-disclosure
+  url: https://seclists.org/fulldisclosure/2026/Nov/9
+  posted: 2026-11-05T04:29:55Z
+title: unixODBC <=2.3.14 Multiple Races
