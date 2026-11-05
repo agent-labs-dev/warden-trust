@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/upcoming-cve-for-eol-versions
+  posted: 2025-01-06T16:00:00Z
+title: Upcoming CVE for End-of-Life Node.js Versions
