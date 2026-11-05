@@ -1,0 +1,7 @@
+candidate: 1
+source:
+  list: full-disclosure
+  url: https://seclists.org/fulldisclosure/2026/Nov/3
+  posted: 2026-11-02T06:10:50Z
+title: Apache Struts2 Core Cross-Origin Protection Exemption Miskeyed to a
+  Deployment-Wide Path
