@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: php-announce
+  url: https://www.php.net/index.php#2026-05-07-3
+  posted: 2026-05-07T15:41:42Z
+title: PHP 8.2.31 Released!
