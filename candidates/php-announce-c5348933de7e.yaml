@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: php-announce
+  url: https://www.php.net/index.php#2026-09-24-5
+  posted: 2026-09-24T15:26:06Z
+title: PHP 8.4.26 Released!
