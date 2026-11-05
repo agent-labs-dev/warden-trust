@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/july-2017-security-releases
+  posted: 2017-07-11T17:00:00Z
+title: Security updates for all active release lines, July 2017
