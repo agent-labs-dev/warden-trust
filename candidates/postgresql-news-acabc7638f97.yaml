@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: postgresql-news
+  url: https://www.postgresql.org/about/news/oxynote-an-open-source-internal-wiki-with-live-postgresql-query-charts-3406/
+  posted: 2026-10-28T00:00:00Z
+title: "Oxynote: an open source internal wiki with live PostgreSQL query charts"
