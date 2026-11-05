@@ -1,0 +1,7 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/cve-2015-8027_cve-2015-6764
+  posted: 2015-11-25T22:06:05Z
+title: CVE-2015-8027 Denial of Service Vulnerability / CVE-2015-6764 V8
+  Out-of-bounds Access Vulnerability
