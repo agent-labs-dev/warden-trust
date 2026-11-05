@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: postgresql-news
+  url: https://www.postgresql.org/about/news/e-maj-501-major-security-update-3425/
+  posted: 2026-10-31T00:00:00Z
+title: "E-Maj 5.0.1 : Major Security Update."
