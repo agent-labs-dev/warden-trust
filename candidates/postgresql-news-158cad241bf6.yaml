@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: postgresql-news
+  url: https://www.postgresql.org/about/news/pgbadger-v133-has-been-released-3435/
+  posted: 2026-11-03T00:00:00Z
+title: pgbadger v13.3 has been released
