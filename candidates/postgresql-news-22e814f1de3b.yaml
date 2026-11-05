@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: postgresql-news
+  url: https://www.postgresql.org/about/news/revivedb-supabase-backups-restore-tested-against-the-source-schema-3422/
+  posted: 2026-10-28T00:00:00Z
+title: "ReviveDB: Supabase backups restore-tested against the source schema"
