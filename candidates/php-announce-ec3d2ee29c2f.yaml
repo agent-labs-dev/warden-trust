@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: php-announce
+  url: https://www.php.net/index.php#2024-08-01-1
+  posted: 2024-08-01T13:28:53Z
+title: PHP 8.3.10 Released!
