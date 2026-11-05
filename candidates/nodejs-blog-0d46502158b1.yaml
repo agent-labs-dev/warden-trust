@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/npm-tokens-leak-march-2016
+  posted: 2016-03-31T10:41:46Z
+title: npm security updates v2.15.1 and v3.8.3
