@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: php-announce
+  url: https://www.php.net/index.php#2025-07-17-1
+  posted: 2025-07-17T11:45:54Z
+title: PHP 8.5.0 Alpha 2 available for testing
