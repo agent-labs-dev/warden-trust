@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: php-announce
+  url: https://www.php.net/index.php#2026-07-02-3
+  posted: 2026-07-02T17:00:52Z
+title: PHP 8.6.0 Alpha 1 available for testing
