@@ -1,0 +1,7 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/january-2026-dos-mitigation-async-hooks
+  posted: 2026-01-13T17:00:00Z
+title: Mitigating Denial-of-Service Vulnerability from Unrecoverable Stack Space
+  Exhaustion for React, Next.js, and APM Users
