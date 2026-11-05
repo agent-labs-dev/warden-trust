@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/september-2017-path-validation
+  posted: 2017-09-29T20:09:00Z
+title: Path validation vulnerability, September 2017
