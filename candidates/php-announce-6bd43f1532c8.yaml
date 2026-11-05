@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: php-announce
+  url: https://www.php.net/index.php#2025-08-28-1
+  posted: 2025-08-28T12:15:15Z
+title: PHP 8.4.12 Released!
