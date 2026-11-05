@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/oct-2021-security-releases
+  posted: 2021-10-12T16:00:00Z
+title: October 12th 2021 Security Releases
