@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: php-announce
+  url: https://www.php.net/index.php#2024-08-29-3
+  posted: 2024-08-29T21:40:58Z
+title: PHP 8.3.11 Released!
