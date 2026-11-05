@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/mar-2022-security-releases
+  posted: 2022-03-18T01:52:00Z
+title: OpenSSL security releases require Node.js security releases
