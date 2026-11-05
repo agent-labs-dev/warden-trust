@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/june-2016-security-releases
+  posted: 2016-06-13T12:57:51Z
+title: Security updates for all active release lines, June 2016
