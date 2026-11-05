@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: postgresql-news
+  url: https://www.postgresql.org/about/news/postgresql-anonymizer-33-major-security-update-3423/
+  posted: 2026-10-28T00:00:00Z
+title: "PostgreSQL Anonymizer 3.3 : Major Security Update"
