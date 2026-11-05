@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: php-announce
+  url: https://www.php.net/index.php#2026-10-21-5
+  posted: 2026-10-21T00:35:26Z
+title: "Security advisory: Critical remote code execution vulnerabilities, update now"
