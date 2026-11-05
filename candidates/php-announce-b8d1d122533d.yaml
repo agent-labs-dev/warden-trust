@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: php-announce
+  url: https://www.php.net/index.php#2025-08-28-2
+  posted: 2025-08-28T14:53:02Z
+title: PHP 8.3.25 Released!
