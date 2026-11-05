@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: php-announce
+  url: https://www.php.net/index.php#2024-10-24-3
+  posted: 2024-10-24T13:22:16Z
+title: PHP 8.4.0 RC3 available for testing
