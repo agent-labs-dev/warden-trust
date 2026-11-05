@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: php-announce
+  url: https://www.php.net/index.php#2026-10-20-1
+  posted: 2026-10-20T20:32:00Z
+title: Upcoming Critical PHP Security Release
