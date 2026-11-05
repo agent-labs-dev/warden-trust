@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: postgresql-news
+  url: https://www.postgresql.org/about/news/security-release-for-psqlodbc-3431/
+  posted: 2026-11-02T00:00:00Z
+title: Security release for psqlodbc
