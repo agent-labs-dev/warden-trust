@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/december-2019-security-releases
+  posted: 2019-12-18T00:23:00Z
+title: December 2019 Security Releases
