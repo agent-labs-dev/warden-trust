@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: postgresql-news
+  url: https://www.postgresql.org/about/news/postgresqlscale24x-cfp-closing-soon-on-nov-1-2027-3363/
+  posted: 2026-10-28T00:00:00Z
+title: PostgreSQL@SCaLE24x CfP closing soon on Nov 1, 2027
