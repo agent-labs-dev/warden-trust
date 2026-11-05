@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/november-2018-security-releases
+  posted: 2018-11-28T00:55:46Z
+title: November 2018 Security Releases
