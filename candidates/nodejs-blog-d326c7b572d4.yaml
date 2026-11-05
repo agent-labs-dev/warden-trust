@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/september-2022-security-releases
+  posted: 2022-09-15T16:00:00Z
+title: September 23rd 2022 Security Releases
