@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/february-2020-security-releases
+  posted: 2020-02-06T12:00:00Z
+title: February 2020 Security Releases
