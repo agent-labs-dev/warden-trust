@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: php-announce
+  url: https://www.php.net/index.php#2025-07-03-3
+  posted: 2025-07-03T14:35:29Z
+title: PHP 8.1.33 Released!
