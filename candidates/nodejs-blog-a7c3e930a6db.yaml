@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/december-2015-security-releases
+  posted: 2015-12-04T03:05:00Z
+title: December Security Release Summary
