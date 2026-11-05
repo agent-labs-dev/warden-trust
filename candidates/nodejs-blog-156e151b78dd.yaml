@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/june-2020-security-releases
+  posted: 2020-06-02T12:00:00Z
+title: June 2020 Security Releases
