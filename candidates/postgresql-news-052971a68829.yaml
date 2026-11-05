@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: postgresql-news
+  url: https://www.postgresql.org/about/news/estuary-expands-postgresql-cdc-with-targeted-backfills-and-scalable-discovery-3419/
+  posted: 2026-10-28T00:00:00Z
+title: Estuary Expands PostgreSQL CDC with Targeted Backfills and Scalable Discovery
