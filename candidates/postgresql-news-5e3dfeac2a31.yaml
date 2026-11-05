@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: postgresql-news
+  url: https://www.postgresql.org/about/news/pgadmin-4-v919-released-3426/
+  posted: 2026-10-31T00:00:00Z
+title: pgAdmin 4 v9.19 Released
