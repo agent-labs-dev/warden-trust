@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/may-2025-security-releases
+  posted: 2025-05-14T03:00:00Z
+title: Wednesday, May 14, 2025 Security Releases
