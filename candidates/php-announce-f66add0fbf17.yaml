@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: php-announce
+  url: https://www.php.net/index.php#2026-09-24-1
+  posted: 2026-09-24T08:21:25Z
+title: PHP 8.6.0 RC2 available for testing
