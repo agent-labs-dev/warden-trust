@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: postgresql-news
+  url: https://www.postgresql.org/about/news/autobase-212-released-3430/
+  posted: 2026-11-05T00:00:00Z
+title: Autobase 2.12 released
