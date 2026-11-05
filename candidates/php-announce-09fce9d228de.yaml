@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: php-announce
+  url: https://www.php.net/index.php#2025-12-18-3
+  posted: 2025-12-18T19:26:22Z
+title: PHP 8.2.30 Released!
