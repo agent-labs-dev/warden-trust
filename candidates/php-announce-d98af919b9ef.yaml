@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: php-announce
+  url: https://www.php.net/index.php#2024-07-18-1
+  posted: 2024-07-18T13:30:46Z
+title: PHP 8.4.0 Alpha 2 available for testing
