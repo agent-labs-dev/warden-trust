@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/openssl-november-2022
+  posted: 2022-10-28T19:00:01Z
+title: OpenSSL November Security Release
