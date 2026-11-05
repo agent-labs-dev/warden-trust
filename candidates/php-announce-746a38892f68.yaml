@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: php-announce
+  url: https://www.php.net/index.php#2025-03-13-3
+  posted: 2025-03-13T14:47:07Z
+title: PHP 8.4.5 Released!
