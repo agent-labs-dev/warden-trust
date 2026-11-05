@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/v8-memory-corruption-stack-overflow
+  posted: 2014-07-31T19:00:00Z
+title: V8 Memory Corruption and Stack Overflow (fixed in Node v0.8.28 and v0.10.30)
