@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: php-announce
+  url: https://www.php.net/index.php#2026-02-12-2
+  posted: 2026-02-12T19:20:03Z
+title: PHP 8.5.3 Released!
