@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: php-announce
+  url: https://www.php.net/index.php#2025-04-10-1
+  posted: 2025-04-10T11:59:24Z
+title: PHP Core Undergoes Security Audit Results Now Available
