@@ -1,0 +1,8 @@
+candidate: 1
+source:
+  list: full-disclosure
+  url: https://seclists.org/fulldisclosure/2026/Oct/57
+  posted: 2026-10-29T04:12:45Z
+title: "[0day-rubbish] NETGEAR RAX120 V1.2.5.18 authenticated SOAP InstallApp OS
+  command injection to root-configured web-stack execution (6.8 Medium;
+  conditionally"
