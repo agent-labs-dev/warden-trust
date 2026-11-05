@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/openssl-november-2017
+  posted: 2017-10-30T23:30:01Z
+title: OpenSSL update, 1.0.2m
