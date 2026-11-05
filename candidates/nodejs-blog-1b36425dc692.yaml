@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/february-2023-security-releases
+  posted: 2023-02-16T21:00:00Z
+title: Thursday February 16 2023 Security Releases
