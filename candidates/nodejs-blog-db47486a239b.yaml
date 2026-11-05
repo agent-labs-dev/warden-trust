@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/april-2020-openssl-updates
+  posted: 2020-04-21T12:00:00Z
+title: OpenSSL security releases do not require Node.js security releases
