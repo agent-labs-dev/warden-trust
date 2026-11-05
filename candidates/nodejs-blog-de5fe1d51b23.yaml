@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/openssl-may-2016
+  posted: 2016-05-02T11:16:10Z
+title: OpenSSL updates, 1.0.1t and 1.0.2h
