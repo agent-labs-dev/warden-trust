@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: php-announce
+  url: https://www.php.net/index.php#2026-01-15-3
+  posted: 2026-01-15T23:57:49Z
+title: PHP 8.5.2 Released!
