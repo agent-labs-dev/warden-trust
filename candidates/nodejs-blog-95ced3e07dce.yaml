@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/july-2021-security-releases-2
+  posted: 2021-07-29T16:00:00Z
+title: July 2021 Security Releases
