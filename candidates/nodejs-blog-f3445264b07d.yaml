@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/openssl-and-low-severity-fixes-jan-2016
+  posted: 2016-01-27T11:34:41Z
+title: OpenSSL upgrade low-severity Node.js security fixes
