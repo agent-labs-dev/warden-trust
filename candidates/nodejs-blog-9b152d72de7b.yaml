@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/updates-cve-for-end-of-life
+  posted: 2025-03-07T16:00:00Z
+title: Updates on CVE for End-of-Life Versions
