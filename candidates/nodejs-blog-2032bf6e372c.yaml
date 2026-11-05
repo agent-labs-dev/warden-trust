@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/june-2023-security-releases
+  posted: 2023-06-20T14:30:00Z
+title: Tuesday June 20 2023 Security Releases
