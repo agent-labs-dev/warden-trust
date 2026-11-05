@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: php-announce
+  url: https://www.php.net/index.php#2024-05-09-2
+  posted: 2024-05-09T14:40:06Z
+title: PHP 8.3.7 Released!
