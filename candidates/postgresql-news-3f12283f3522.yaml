@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: postgresql-news
+  url: https://www.postgresql.org/about/news/reindb-read-only-performance-monitoring-for-postgresql-first-database-free-3432/
+  posted: 2026-11-05T00:00:00Z
+title: "ReinDB: read-only performance monitoring for PostgreSQL, first database free"
