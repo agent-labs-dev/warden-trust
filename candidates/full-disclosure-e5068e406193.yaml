@@ -1,0 +1,7 @@
+candidate: 1
+source:
+  list: full-disclosure
+  url: https://seclists.org/fulldisclosure/2026/Nov/0
+  posted: 2026-11-02T06:10:46Z
+title: Apache Struts2 JSON Plugin Insecure Deserialisation -- Object
+  Deserialisation Element-Count Limit Bypass
