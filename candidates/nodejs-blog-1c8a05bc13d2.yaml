@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/openssl-and-zlib-vulnerability-assessment
+  posted: 2022-10-24T20:00:15Z
+title: OpenSSL and zlib update assessment, and Node.js Assessment workflow
