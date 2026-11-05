@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/openssl-march-2016
+  posted: 2016-02-29T02:08:06Z
+title: OpenSSL updates, 1.0.2g and 1.0.1s
