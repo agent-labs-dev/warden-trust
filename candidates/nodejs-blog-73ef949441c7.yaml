@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/september-2019-openssl-updates
+  posted: 2019-09-05T15:34:35Z
+title: OpenSSL security releases may require Node.js security releases
