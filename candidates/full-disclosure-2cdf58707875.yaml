@@ -1,0 +1,7 @@
+candidate: 1
+source:
+  list: full-disclosure
+  url: https://seclists.org/fulldisclosure/2026/Nov/10
+  posted: 2026-11-05T04:29:57Z
+title: unixODBC <=2.3.14 Rude Truncation via Narrowing Conversion Causes
+  Out-of-Bounds `memcpy`
