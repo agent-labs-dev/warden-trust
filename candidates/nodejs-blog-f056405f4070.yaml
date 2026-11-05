@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/http-server-pipeline-flood-dos
+  posted: 2013-10-22T17:42:10Z
+title: DoS Vulnerability (fixed in Node v0.8.26 and v0.10.21)
