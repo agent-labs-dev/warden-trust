@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: postgresql-news
+  url: https://www.postgresql.org/about/news/mydbr-77-brings-web-reporting-to-postgresql-3424/
+  posted: 2026-11-05T00:00:00Z
+title: myDBR 7.7 brings web reporting to PostgreSQL
