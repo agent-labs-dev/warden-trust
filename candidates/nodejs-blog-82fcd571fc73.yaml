@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/november-2022-security-releases
+  posted: 2022-11-01T21:00:00Z
+title: Nov 3 2022 Security Releases
