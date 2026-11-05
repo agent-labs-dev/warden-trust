@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: nodejs-blog
+  url: https://nodejs.org/en/blog/vulnerability/april-2021-security-releases
+  posted: 2021-04-06T20:51:00Z
+title: April 2021 Security Releases
