@@ -1,0 +1,8 @@
+candidate: 1
+source:
+  list: full-disclosure
+  url: https://seclists.org/fulldisclosure/2026/Oct/54
+  posted: 2026-10-29T04:12:44Z
+title: "[0day-rubbish] Raritan PX3 PDU G4 firmware 4.3.14 command injection in
+  the ping and traceroute diagnostics through an inverted hostname-validation
+  return check"
