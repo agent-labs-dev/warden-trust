@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: postgresql-news
+  url: https://www.postgresql.org/about/news/brume-fk-safe-pseudonymization-for-postgresql-test-and-debug-copies-3434/
+  posted: 2026-11-07T00:00:00Z
+title: "Brume: FK-safe pseudonymization for PostgreSQL test and debug copies"
