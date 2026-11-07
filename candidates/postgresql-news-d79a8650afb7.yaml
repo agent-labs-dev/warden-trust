@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: postgresql-news
+  url: https://www.postgresql.org/about/news/heapdeck-an-on-call-monitor-for-postgresql-on-iphone-and-ipad-3436/
+  posted: 2026-11-07T00:00:00Z
+title: "HeapDeck: an on-call monitor for PostgreSQL on iPhone and iPad"
