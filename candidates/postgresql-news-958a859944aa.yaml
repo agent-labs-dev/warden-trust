@@ -1,0 +1,7 @@
+candidate: 1
+source:
+  list: postgresql-news
+  url: https://www.postgresql.org/about/news/agensgraph-218-released-graph-database-on-postgresql-18-with-expanded-iso-gql-support-3437/
+  posted: 2026-11-07T00:00:00Z
+title: "AgensGraph 2.18 Released: Graph Database on PostgreSQL 18 with Expanded
+  ISO GQL Support"
