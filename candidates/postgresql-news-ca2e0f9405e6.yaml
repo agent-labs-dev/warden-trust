@@ -1,0 +1,6 @@
+candidate: 1
+source:
+  list: postgresql-news
+  url: https://www.postgresql.org/about/news/pg-observability-map-100-released-3427/
+  posted: 2026-11-07T00:00:00Z
+title: PG Observability Map 1.0.0 Released
