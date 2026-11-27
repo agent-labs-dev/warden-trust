@@ -21,6 +21,26 @@ One fact per line, in three shapes:
 
 Lines are only ever added, never changed or removed.
 
+## What is in WITHDRAWALS.txt
+
+The record starts with `wardensec-withdrawals 1` and ends with `end`. Between them, each
+`withdraw <seq>` line names the release sequence used in the signed index. A sequence is one
+to nine decimal digits starting with 1–9 and may appear only once. The file is at most
+65,536 bytes, uses only ASCII and LF line endings, and ends with a newline. Only the header,
+withdrawal lines with single spaces, and the footer are allowed.
+
+Repository administrators publish withdrawals by merging signed changes through pull requests
+to protected `main`. They append lines immediately before `end` and keep all previous lines
+unchanged. Release signing and website publishing credentials have no authority to publish
+this record. Publish here first, then publish the signed index carrying the same withdrawal.
+If the index omits any recorded withdrawal, the installer stops.
+
+The installer reads the fixed
+[raw URL for this repository's main branch](https://raw.githubusercontent.com/agent-labs-dev/warden-trust/main/WITHDRAWALS.txt)
+over HTTPS. It requires a valid TLS certificate for `raw.githubusercontent.com` and HTTP 200,
+and follows no redirects. The hostname and full repository path are fixed in the installer.
+The repository's publication controls provide the independent authority for this record.
+
 ## Check the installer before you run it
 
 Linux:
