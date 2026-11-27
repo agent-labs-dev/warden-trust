@@ -1,0 +1,36 @@
+name: record
+# Fails a pull request into main, or a push to main, that removes, changes or moves a line of ROOTS.txt or
+# WITHDRAWALS.txt, or breaks their grammar. The checker is taken from the base commit when it has one, so a pull
+# request is judged by the check already on main.
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  lines-only-added:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: The check refuses every removed, changed or moved line
+        run: sh tools/check-record.test.sh
+      - name: This change only adds lines
+        env:
+          BASE: ${{ github.event_name == 'pull_request' && github.event.pull_request.base.sha || github.event.before }}
+        run: |
+          b="$RUNNER_TEMP/base" && mkdir -p "$b"
+          checker=tools/check-record.sh
+          if [ "$BASE" != 0000000000000000000000000000000000000000 ]; then
+            for f in ROOTS.txt WITHDRAWALS.txt; do
+              if git cat-file -e "$BASE:$f" 2>/dev/null; then git show "$BASE:$f" >"$b/$f"; fi
+            done
+            if git cat-file -e "$BASE:tools/check-record.sh" 2>/dev/null; then
+              git show "$BASE:tools/check-record.sh" >"$RUNNER_TEMP/check-record.sh" && checker=$RUNNER_TEMP/check-record.sh
+            fi
+          fi
+          sh "$checker" "$b" .

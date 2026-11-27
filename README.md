@@ -2,7 +2,7 @@
 
 This repository is the public trust record for Warden, self-hosted security software for AWS and
 Kubernetes. It lists the SHA-256 of every Warden installer we publish and of every root, the key
-list the installer trusts.
+list the installer trusts, and the releases that are withdrawn.
 
 The website at wardensec.ai serves the installer and the hash in the line that checks it. A
 website that is no longer ours could serve a changed installer together with a matching hash.
@@ -20,6 +20,47 @@ One fact per line, in three shapes:
 - `installer sha256 <hex>`: an installer we published.
 
 Lines are only ever added, never changed or removed.
+
+## What is in WITHDRAWALS.txt
+
+A withdrawn release is one the installer never installs. The file starts with
+`wardensec-withdrawals 1` and ends with `end`. Each line between them, `withdraw <seq>`, names a
+release by its sequence number in the signed release index: one to nine digits, no leading zero,
+each at most once. The file is printable ASCII with LF line endings, ends with a newline and is at
+most 65,536 bytes. Any other line makes the installer stop.
+
+The installer reads it from
+https://raw.githubusercontent.com/agent-labs-dev/warden-trust/main/WITHDRAWALS.txt, an address
+fixed in the installer, over HTTPS with a valid certificate. It needs HTTP 200 and follows no
+redirect. It never installs a release that this file or the signed index withdraws. It stops, with
+`--now` too, and says to run the same command again later, when the signed index leaves out a
+withdrawal listed here, or when this file cannot be read or is not well formed. It never goes on
+with the index alone.
+
+### Who can publish it, and what that proves
+
+This file is not signed. A second origin and a second credential stand behind it: GitHub, and the
+right to merge into `main` of this repository, which only its administrators at Agent Labs Inc.
+hold, through a pull request. The release signing keys and the website's publishing credentials
+give no right to change it.
+
+So the installer installs a withdrawn release again only if both are true: what
+raw.githubusercontent.com serves for this file lacks the line (someone merged its removal into
+`main`, or controls how GitHub serves the file), and an index signed with the release keys lacks
+it too. That is strictly more than the release keys alone. Whoever can change only this file can
+add withdrawals or break the file, and either makes the installer stop, never install. Whoever
+holds both credentials can still undo a withdrawal, and the history below shows it.
+
+To withdraw a release, publish the signed index that withdraws it, then add its line here.
+
+### Lines are only added
+
+A new withdrawal goes immediately before `end`. No line of this file or of ROOTS.txt is ever
+changed, moved or removed. The `record` check (`tools/check-record.sh`) fails any pull request
+into `main`, and any push to it, that does so, and its test (`tools/check-record.test.sh`) shows
+each case refused. That check and the repository settings can be changed by an administrator, so
+they are not the proof. The proof is the public history of `main`, which cannot be force-pushed
+or deleted: a line that was ever on `main` and is gone shows there.
 
 ## Check the installer before you run it
 
